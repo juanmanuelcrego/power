@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/power/static/css/main.74f62013.chunk.css",
+    "main.css": "/power/static/css/main.517aa678.chunk.css",
     "main.js": "/power/static/js/main.0e1ebff8.chunk.js",
     "main.js.map": "/power/static/js/main.0e1ebff8.chunk.js.map",
     "runtime-main.js": "/power/static/js/runtime-main.b8851914.js",
@@ -8,9 +8,9 @@
     "static/js/2.f30cc5ae.chunk.js": "/power/static/js/2.f30cc5ae.chunk.js",
     "static/js/2.f30cc5ae.chunk.js.map": "/power/static/js/2.f30cc5ae.chunk.js.map",
     "index.html": "/power/index.html",
-    "precache-manifest.257ab25678d475c564421f537fd5a074.js": "/power/precache-manifest.257ab25678d475c564421f537fd5a074.js",
+    "precache-manifest.d52842ac73faddf61bb252fdbc20becf.js": "/power/precache-manifest.d52842ac73faddf61bb252fdbc20becf.js",
     "service-worker.js": "/power/service-worker.js",
-    "static/css/main.74f62013.chunk.css.map": "/power/static/css/main.74f62013.chunk.css.map",
+    "static/css/main.517aa678.chunk.css.map": "/power/static/css/main.517aa678.chunk.css.map",
     "static/js/2.f30cc5ae.chunk.js.LICENSE.txt": "/power/static/js/2.f30cc5ae.chunk.js.LICENSE.txt",
     "static/media/Logo.png": "/power/static/media/Logo.843ef85f.png",
     "static/media/video.mp4": "/power/static/media/video.9b4f7061.mp4"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.b8851914.js",
     "static/js/2.f30cc5ae.chunk.js",
-    "static/css/main.74f62013.chunk.css",
+    "static/css/main.517aa678.chunk.css",
     "static/js/main.0e1ebff8.chunk.js"
   ]
 }
